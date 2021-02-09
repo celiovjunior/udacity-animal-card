@@ -1,0 +1,61 @@
+.card {
+    width: 350px;
+    border: 2px solid goldenrod;
+    box-shadow: 4px 8px lightgrey;
+    background: url("https://www.coladaweb.com/wp-content/uploads/2016/10/20161031-savana.jpg");
+       
+           
+}
+
+span {
+    font-weight: bold;
+           
+}
+
+
+h3 {
+    border: 1px solid goldenrod;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24pt;
+    text-shadow: 2px 2px 8px #ffffff
+    
+    
+}
+
+img {
+    width: 300px;
+    border: 1px solid rgb(255, 255, 255);
+    display: block;
+    margin: 1.5em;
+    
+        
+}
+
+
+
+#intro {
+    font-style: italic;
+    
+}
+
+.information {
+    border: 1px solid rgb(255, 255, 255);
+    width: 300px;
+    margin: 1.5em;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 8px #ffffff
+    
+}
+
+
+
+ul {
+    padding-left: 1px;
+}
+
+li {
+    list-style-type: none;
+    
+}
+
